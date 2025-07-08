@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
  
 - **💻 Computer Engineering Student**
-- **👀 Interested in Backend Engineering, Machine Learning and  Data Science**
+- **👀 Interested in Backend Engineering**
 - **📫 Reach [Me](https://docs.google.com/forms/d/1ytZiOo8qIoAtt1onr7Upwv9Cz5WiB6YYtLYKTAV8plg)**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,js,ts,nodejs,express,nestjs,prisma,mongodb,mysql,postgres,linux,bash,py,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,js,ts,nodejs,express,nestjs,prisma,mongodb,mysql,postgres,linux,bash,py,c,cpp&perline=9" />
   </a>
 </p>
  
