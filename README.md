@@ -26,17 +26,16 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,postman,js,ts,nodejs,express,nestjs,prisma,mongodb,mysql,postgres,linux,bash,py,c,cpp&perline=9" />
   </a>
 </p>
- 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amralbaz34&layout=compact&theme=radical) <br>
-![amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amralbaz34&show_icons=true&theme=radical)
--->
-
-</p>
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/albazamr/" target="_blank">
-<img align="center" src="https://img.icons8.com/bubbles/256/linkedin.png" alt="linkedin" height="56" width="56" />
-</a> &ensp;
+  <a href="https://www.linkedin.com/in/mohamed-albaz-43876a24b/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/linkedin.png" alt="LinkedIn" height="56" width="56" />
+  </a> &ensp;
+
+  <a href="mailto:mohamedalbaz492@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/gmail.png" alt="Gmail" height="56" width="56" />
+  </a>
 </p>
 <br/>
