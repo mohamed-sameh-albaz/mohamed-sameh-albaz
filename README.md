@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  
 - **💻 Computer Engineering Student**
-- **👀 Interested in Backend Engineering**
+- **👀 Interested in Software Engineering**
 - **📫 Reach [Me](https://docs.google.com/forms/d/1ytZiOo8qIoAtt1onr7Upwv9Cz5WiB6YYtLYKTAV8plg)**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
